@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Amr1997
-- 👀 I’m interested in Machine Learning & Data Science
+- 👋 Hi, I’m Amr Maher i'm a Python Developer
+- 👀 I’m interested in Machine Learning & Data Science , developing backends using Django 
 -
-<!---
-Amr1997/Amr1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
